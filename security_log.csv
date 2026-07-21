@@ -1,0 +1,50 @@
+Timestamp,Event_Type,Username,IP_Address,Status,Details
+<<<<<<< HEAD
+2026-07-22 00:25:41,REGISTRATION,abc,10.0.0.2,SUCCESS,New user dynamically registered
+2026-07-22 00:25:41,AUTH_SUCCESS,abc,10.0.0.2,GRANTED,Secure session open
+2026-07-22 00:25:55,AUTH_FAILURE,abc,10.0.0.2,REJECTED,Duplicate session blocked
+2026-07-22 00:25:55,SESSION_CLOSED,abc,10.0.0.2,OFFLINE,User disconnected gracefully
+2026-07-22 00:26:02,SESSION_CLOSED,abc,10.0.0.2,OFFLINE,User disconnected gracefully
+2026-07-22 00:26:02,AUTH_SUCCESS,abc,10.0.0.2,GRANTED,Secure session open
+2026-07-22 00:27:05,REGISTRATION,a,10.0.0.2,SUCCESS,New user dynamically registered
+2026-07-22 00:27:05,AUTH_SUCCESS,a,10.0.0.2,GRANTED,Secure session open
+2026-07-22 00:27:07,SESSION_CLOSED,abc,10.0.0.2,OFFLINE,User disconnected gracefully
+2026-07-22 00:27:17,REGISTRATION,b,10.0.0.3,SUCCESS,New user dynamically registered
+2026-07-22 00:27:17,AUTH_SUCCESS,b,10.0.0.3,GRANTED,Secure session open
+2026-07-22 00:29:16,REGISTRATION,c,10.0.0.4,SUCCESS,New user dynamically registered
+2026-07-22 00:29:16,AUTH_SUCCESS,c,10.0.0.4,GRANTED,Secure session open
+2026-07-22 00:29:41,REGISTRATION,d,10.0.0.5,SUCCESS,New user dynamically registered
+2026-07-22 00:29:41,AUTH_SUCCESS,d,10.0.0.5,GRANTED,Secure session open
+2026-07-22 00:31:00,REGISTRATION,e,10.0.0.6,SUCCESS,New user dynamically registered
+2026-07-22 00:31:00,AUTH_SUCCESS,e,10.0.0.6,GRANTED,Secure session open
+2026-07-22 00:31:10,REGISTRATION,f,10.0.0.7,SUCCESS,New user dynamically registered
+2026-07-22 00:31:10,AUTH_SUCCESS,f,10.0.0.7,GRANTED,Secure session open
+2026-07-22 00:31:14,REGISTRATION,g,10.0.0.8,SUCCESS,New user dynamically registered
+2026-07-22 00:31:14,AUTH_SUCCESS,g,10.0.0.8,GRANTED,Secure session open
+2026-07-22 00:36:01,SESSION_CLOSED,c,10.0.0.4,OFFLINE,User disconnected gracefully
+2026-07-22 00:38:17,SESSION_CLOSED,e,10.0.0.6,OFFLINE,User disconnected gracefully
+2026-07-22 00:38:22,SESSION_CLOSED,b,10.0.0.3,OFFLINE,User disconnected gracefully
+2026-07-22 00:38:22,SESSION_CLOSED,g,10.0.0.8,OFFLINE,User disconnected gracefully
+2026-07-22 00:38:22,SESSION_CLOSED,a,10.0.0.2,OFFLINE,User disconnected gracefully
+2026-07-22 00:38:22,SESSION_CLOSED,d,10.0.0.5,OFFLINE,User disconnected gracefully
+2026-07-22 00:38:22,SESSION_CLOSED,f,10.0.0.7,OFFLINE,User disconnected gracefully
+=======
+16-07-2026 19:17,REGISTRATION,goku,10.0.0.2,SUCCESS,New user dynamically registered
+16-07-2026 19:17,AUTH_SUCCESS,goku,10.0.0.2,GRANTED,Successful secure login
+16-07-2026 19:18,REGISTRATION,vegeta,10.0.0.3,SUCCESS,New user dynamically registered
+16-07-2026 19:18,AUTH_SUCCESS,vegeta,10.0.0.3,GRANTED,Successful secure login
+16-07-2026 19:18,REGISTRATION,whis,10.0.0.4,SUCCESS,New user dynamically registered
+16-07-2026 19:18,AUTH_SUCCESS,whis,10.0.0.4,GRANTED,Successful secure login
+16-07-2026 19:18,REGISTRATION,beerus,10.0.0.5,SUCCESS,New user dynamically registered
+16-07-2026 19:18,AUTH_SUCCESS,beerus,10.0.0.5,GRANTED,Successful secure login
+16-07-2026 19:21,SESSION_CLOSED,vegeta,10.0.0.3,OFFLINE,User disconnected gracefully
+16-07-2026 19:21,AUTH_FAILURE,vegeta,10.0.0.3,DENIED,Invalid password attempt
+16-07-2026 19:21,SESSION_CLOSED,vegeta,10.0.0.3,OFFLINE,User disconnected gracefully
+16-07-2026 19:22,AUTH_FAILURE,vegeta,10.0.0.3,DENIED,Invalid password attempt
+16-07-2026 19:22,SESSION_CLOSED,vegeta,10.0.0.3,OFFLINE,User disconnected gracefully
+16-07-2026 19:22,REGISTRATION,hvhvhkv,10.0.0.3,SUCCESS,New user dynamically registered
+16-07-2026 19:22,AUTH_SUCCESS,hvhvhkv,10.0.0.3,GRANTED,Successful secure login
+16-07-2026 19:23,SESSION_CLOSED,hvhvhkv,10.0.0.3,OFFLINE,User disconnected gracefully
+16-07-2026 19:23,AUTH_FAILURE,goku,10.0.0.3,REJECTED,Duplicate login attempt blocked
+16-07-2026 19:23,SESSION_CLOSED,goku,10.0.0.3,OFFLINE,User disconnected gracefully
+>>>>>>> b4499e4f5098d1e0c590fbc3dc86cd236be7eade

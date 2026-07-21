@@ -1,0 +1,24 @@
+{
+    "server": {
+        "host": "0.0.0.0",
+        "port": 5000,
+        "max_clients": 15,
+        "thread_pool_workers": 20,
+        "socket_timeout": 5.0,
+        "ping_interval": 10
+    },
+    "client": {
+        "server_ip": "10.0.0.1",
+        "server_port": 5000,
+        "reconnect_attempts": 5,
+        "reconnect_delay": 3,
+        "buffer_size": 4096
+    },
+    "storage": {
+        "credentials_file": "user_credentials.json",
+        "security_log": "security_log.csv",
+        "chat_history": "chat_history.csv",
+        "performance_results": "performance_results.csv",
+        "graph_dir": "graphs"
+    }
+}

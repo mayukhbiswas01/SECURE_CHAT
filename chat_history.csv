@@ -1,0 +1,17 @@
+Timestamp,Sender,Receiver,Message_Type,Message
+<<<<<<< HEAD
+2026-07-22 00:27:28,a,All,broadcast,hii
+2026-07-22 00:31:29,g,All,broadcast,hello
+2026-07-22 00:32:45,c,All,broadcast,everyone
+2026-07-22 00:33:16,d,All,broadcast,what????
+2026-07-22 00:33:26,a,All,broadcast,nothing
+2026-07-22 00:33:35,f,All,broadcast,then?
+2026-07-22 00:33:43,e,All,broadcast,bye
+2026-07-22 00:33:53,e,All,broadcast,exit
+2026-07-22 00:34:08,b,All,broadcast,ok go
+=======
+16-07-2026 19:18,goku,All,broadcast,hey everyonme
+16-07-2026 19:19,beerus,All,broadcast,???
+16-07-2026 19:19,whis,All,broadcast,:(
+16-07-2026 19:19,vegeta,All,broadcast,:)
+>>>>>>> b4499e4f5098d1e0c590fbc3dc86cd236be7eade
